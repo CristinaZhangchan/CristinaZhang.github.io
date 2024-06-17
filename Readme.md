@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://cristinazhangchan.github.io/
+> https://cristinazhangchan.github.io/portfolio/
 
 :star: Star me on GitHub — it helps!
 
